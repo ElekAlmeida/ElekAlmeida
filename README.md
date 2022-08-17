@@ -9,5 +9,5 @@
   <img align="center" alt="Elek" height="30" width="40" src="https://www.instagram.com/p/ChADXwFuhTChPuXifq_ScnQvB7iZdnvvQ2Fm6E0/?igshid=MDJmNzVkMjY=">
  </div>
 <div align="center" style="display: inline_block"><br> 
-   <a href="instagram.com/elekayke/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/elekayke?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
